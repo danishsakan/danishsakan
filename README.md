@@ -1,16 +1,23 @@
-## Hi there 👋
+<div align="center">
+  <h1>Halo, Gua Sakan! 🗿🤙</h1>
+  <p><em>Frontend Web Enthusiast & PC System Tuner</em></p>
+</div>
 
-<!--
-**danishsakan/danishsakan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Tentang Gua
+Seorang pelajar tingkat akhir yang hobi ngoprek sistem operasi Windows secara manual, meracik antarmuka web yang minimalis, dan hobi merhatiin performa perangkat keras biar tetep ngebut maksimal.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack & Tools
+* **Languages & Frameworks:** HTML5, CSS3, JavaScript
+* **Design & Layout:** Framer, UI/UX Minimalist Design
+* **System & Environment:** Windows (Manual Tweak & Optimization Expert), Git, GitHub
+
+---
+
+### 📊 GitHub Stats & Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danishsakan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
+</div>
+
+> *"Gak perlu OS instan buatan pihak ketiga kalau tangan sendiri jago ngetweak sistem, awokawokawok 🗿"*
