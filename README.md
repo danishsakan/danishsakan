@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Halo, Gua Sakan! 🗿🤙</h1>
-  <p><em>Frontend Web Enthusiast & PC System Tuner</em></p>
+  <h1>HI IAM DANISH SAKAN</h1>
+  <p><em>Frontend Web Enthusiast & UI/UX Designer</em></p>
 </div>
 
 ### 🚀 Tentang Gua
@@ -11,7 +11,7 @@ Seorang pelajar tingkat akhir yang hobi ngoprek sistem operasi Windows secara ma
 ### 💻 Tech Stack & Tools
 * **Languages & Frameworks:** HTML5, CSS3, JavaScript
 * **Design & Layout:** Framer, UI/UX Minimalist Design
-* **System & Environment:** Windows (Manual Tweak & Optimization Expert), Git, GitHub
+* **REGION:** INDONESIA , DI YOGYAKARTA
 
 ---
 
@@ -20,4 +20,25 @@ Seorang pelajar tingkat akhir yang hobi ngoprek sistem operasi Windows secara ma
   <img src="https://github-readme-stats.vercel.app/api?username=danishsakan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
 </div>
 
-> *"BUATLAH DIRIMU MENGENAL DUNIA AGAR KAMU TAHU APA ITU ARTI MENCINTAI DIRI SENDIRI"*
+> *"BELAJAR DARI PENGALAMAN AGAR BISA MEMBENTUK MENTAL LEBIH BAIK"*
+
+<div align="center">
+  <h1> SPECSIFICATION HARDWARE</h1>
+  <p><em>HANYA SEBUAH KOMPUTER BIASA</em></p>
+</div>
+
+---
+
+### 💻 System & Environment
+* **OS:** Windows (Manual Tweak & Clean Optimization)
+* **Hardware:** GTX 750 Ti | 16GB RAM (Optimized for Peak Performance)
+* **Tech Stack:** HTML5, CSS3, JavaScript, Framer
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=danishsakan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
+</div>
+
+> *"KEINDAHAN BUKAN SEKEDAR ALAM NAMUN KEINDAHAN KETIKA BERHASIL MENCINTAI DIRI SENDIRI"*
