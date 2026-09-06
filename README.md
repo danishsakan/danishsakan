@@ -33,9 +33,8 @@ Seorang pelajar tingkat akhir yang hobi ngoprek sistem operasi Windows secara ma
 
 ---
 
-### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danishsakan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
+  <h1><img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&color=green&size=50&lines=Danish+Sakan+Plays" alt="Danish Sakan"></h1>
+  <p><em>Frontend Developer | System Optimization Expert | Hobbies Playing Minecraft</em></p>
 </div>
-
 > *"KEINDAHAN BUKAN SEKEDAR ALAM NAMUN KEINDAHAN KETIKA BERHASIL MENCINTAI DIRI SENDIRI"*
