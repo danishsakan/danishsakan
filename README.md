@@ -20,4 +20,4 @@ Seorang pelajar tingkat akhir yang hobi ngoprek sistem operasi Windows secara ma
   <img src="https://github-readme-stats.vercel.app/api?username=danishsakan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
 </div>
 
-> *"Gak perlu OS instan buatan pihak ketiga kalau tangan sendiri jago ngetweak sistem, awokawokawok 🗿"*
+> *"BUATLAH DIRIMU MENGENAL DUNIA AGAR KAMU TAHU APA ITU ARTI MENCINTAI DIRI SENDIRI"*
