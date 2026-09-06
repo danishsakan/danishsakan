@@ -15,9 +15,6 @@ Seorang pelajar tingkat akhir yang hobi ngoprek sistem operasi Windows secara ma
 
 ---
 
-### 📊 GitHub Stats & Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danishsakan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161b22" alt="GitHub Stats" />
 </div>
 
 > *"BELAJAR DARI PENGALAMAN AGAR BISA MEMBENTUK MENTAL LEBIH BAIK"*
