@@ -36,5 +36,6 @@ Seorang pelajar yang suka mendesign suatu website sesuai dengan ide dari pikiran
 <div align="center">
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&color=green&size=50&lines=Danish+Sakan+Plays" alt="Danish Sakan"></h1>
   <p><em>Frontend Developer | System Optimization Expert | Hobbies Playing Minecraft</em></p>
+  <p> PortFolio me? https://jogloid.framer.ai</p>
 </div>
 > *"KEINDAHAN BUKAN SEKEDAR ALAM NAMUN KEINDAHAN KETIKA BERHASIL MENCINTAI DIRI SENDIRI"* <
