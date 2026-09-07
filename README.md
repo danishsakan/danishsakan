@@ -4,7 +4,7 @@
 </div>
 
 ### 🚀 Tentang Gua
-Seorang pelajar tingkat akhir yang hobi ngoprek sistem operasi Windows secara manual, meracik antarmuka web yang minimalis, dan hobi merhatiin performa perangkat keras biar tetep ngebut maksimal.
+Seorang pelajar yang suka mendesign suatu website sesuai dengan ide dari pikiran
 
 ---
 
@@ -37,4 +37,4 @@ Seorang pelajar tingkat akhir yang hobi ngoprek sistem operasi Windows secara ma
   <h1><img src="https://readme-typing-svg.herokuapp.com?font=Minecraft&color=green&size=50&lines=Danish+Sakan+Plays" alt="Danish Sakan"></h1>
   <p><em>Frontend Developer | System Optimization Expert | Hobbies Playing Minecraft</em></p>
 </div>
-> *"KEINDAHAN BUKAN SEKEDAR ALAM NAMUN KEINDAHAN KETIKA BERHASIL MENCINTAI DIRI SENDIRI"*
+> *"KEINDAHAN BUKAN SEKEDAR ALAM NAMUN KEINDAHAN KETIKA BERHASIL MENCINTAI DIRI SENDIRI"* <
