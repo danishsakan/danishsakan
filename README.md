@@ -27,7 +27,7 @@ Seorang pelajar yang suka mendesign suatu website sesuai dengan ide dari pikiran
 ---
 
 ### 💻 System & Environment
-* **OS:** Windows (Manual Tweak & Clean Optimization)
+* **OS:** CachyOS dan Arch Linux
 * **Hardware:** GTX 750 Ti | 16GB RAM (Optimized for Peak Performance)
 * **Tech Stack:** HTML5, CSS3, JavaScript, Framer
 
