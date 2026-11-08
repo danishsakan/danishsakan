@@ -5,6 +5,8 @@
 
 ### 🚀 Tentang Gua
 pelajar yang hobi mempelajari design dari website dan lain lain,suka hobi mempelajari tentang dunia Linux 
+buat kalian user Windows ingin mencoba Linux,gunakan link "https://danishsakan.github.io/web" untuk melihat
+penjelasan setiap distro Linux mulai dari pemula hingga tingkat senior
 
 ---
 
