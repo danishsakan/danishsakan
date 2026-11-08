@@ -4,7 +4,7 @@
 </div>
 
 ### 🚀 Tentang Gua
-Seorang pelajar yang suka mendesign suatu website sesuai dengan ide dari pikiran
+pelajar yang hobi mempelajari design dari website dan lain lain,suka hobi mempelajari tentang dunia Linux 
 
 ---
 
@@ -28,7 +28,7 @@ Seorang pelajar yang suka mendesign suatu website sesuai dengan ide dari pikiran
 
 ### 💻 System & Environment
 * **OS:** CachyOS dan Arch Linux
-* **Hardware:** GTX 750 Ti | 16GB RAM (Optimized for Peak Performance)
+* **Hardware:** GTX 750 Ti | 16GB RAM 
 * **Tech Stack:** HTML5, CSS3, JavaScript, Framer
 
 ---
